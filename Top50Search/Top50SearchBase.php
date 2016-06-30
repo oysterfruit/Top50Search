@@ -1,6 +1,6 @@
 <?php
 
-//aws keys removed
+include DOCROOT .'/Top50Search/Top50SearchNOGIT.php;
 
 // The region you are interested in
 $endpoint = "webservices.amazon.com";
